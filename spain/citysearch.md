@@ -12,6 +12,10 @@
 * [List of subdivisions of spain by population](https://en.wikipedia.org/wiki/List_of_subdivisions_of_Spain_by_population)
 * [List of spanish provinces by area](https://en.wikipedia.org/wiki/List_of_Spanish_provinces_by_area)
 
+### Wikipedia
+
+* [Catalan language](https://en.wikipedia.org/wiki/Catalan_language)
+
 ### Maps
 
 * [Spain Autonomous communities maps](https://ontheworldmap.com/spain/autonomous-community/)
