@@ -20,6 +20,8 @@
 
 * [Spain Autonomous communities maps](https://ontheworldmap.com/spain/autonomous-community/)
 [large version](https://ontheworldmap.com/spain/spain-political-map.jpg)
+* [Spain Provinces](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Provinces_of_Spain.svg/1280px-Provinces_of_Spain.svg.png)
+
 
 ### Google Search
 
