@@ -20,3 +20,4 @@
 ### Google Search
 
 * [spanish cities not near big cities](https://www.google.com/search?q=spanish+cities+not+near+big+cities&oq=spanish+cities+not+near+big+cities&aqs=chrome..69i57j69i64.7820j0j4&sourceid=chrome&ie=UTF-8)
+* [where is catalan spoken](https://www.google.com/search?q=where+is+catalan+spoken&oq=where+is+cata&aqs=chrome.0.69i59j69i57j0i131i433i512j0i512j0i20i263i512l2j0i512l4.2256j0j7&sourceid=chrome&ie=UTF-8)
