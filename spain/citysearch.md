@@ -11,3 +11,7 @@
 * [50 provinces](https://en.wikipedia.org/wiki/Provinces_of_Spain)
 * [List of subdivisions of spain by population](https://en.wikipedia.org/wiki/List_of_subdivisions_of_Spain_by_population)
 * [List of spanish provinces by area](https://en.wikipedia.org/wiki/List_of_Spanish_provinces_by_area)
+
+### Google Search
+
+* [spanish cities not near big cities](https://www.google.com/search?q=spanish+cities+not+near+big+cities&oq=spanish+cities+not+near+big+cities&aqs=chrome..69i57j69i64.7820j0j4&sourceid=chrome&ie=UTF-8)
