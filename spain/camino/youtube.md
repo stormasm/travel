@@ -11,3 +11,7 @@ and these are the ones I liked the best
 The next one has really nice music
 
 [Camino Frances - Camino de Santiago Roncesvalles to Santiago & Finisterra](https://www.youtube.com/watch?v=urvDntyYVlw)
+
+The famous author
+
+[El camino a Santiago - Paulo Coelho](https://www.youtube.com/watch?v=5lSyWAMk8LI)
