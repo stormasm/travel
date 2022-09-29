@@ -7,3 +7,5 @@ came through here on their Camino journey.
 [Ponferrada in pictures](https://www.youtube.com/watch?v=mdKm5NzcRwo)
 
 [Spain speaks living and working in Spain](https://www.youtube.com/c/Spainspeaks12345)
+
+[Learn Spanish: Spanish regions (basic level)](https://www.youtube.com/watch?v=Md5-ANncZpM)
