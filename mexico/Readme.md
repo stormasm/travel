@@ -8,5 +8,9 @@
 
 - [Map of the States of Mexico](https://www.mappr.co/counties/mexico/#gid=1&pid=1)
 
+### Spanish Keyboard
+
 To type the Spanish accented letter á on a MacBook,
 you can use the keyboard shortcut Option + e + a
+
+- [spanish keyboard](https://github.com/stormasm/spanish/blob/main/misc/macbook.md)
