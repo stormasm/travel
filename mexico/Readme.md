@@ -4,6 +4,10 @@
 - [Wikipedia Michoacán](https://en.wikipedia.org/wiki/Michoac%C3%A1n)
 - [Mora Margaret lives in Pátzcuaro](https://www.youtube.com/watch?v=adiilqbC8NY)
 
+### Travel
+
+- [Mexico City to Morelia is 3 hours on a bus](https://www.rome2rio.com/s/Mexico-City/Morelia)
+
 ### References
 
 - [Population of towns in Michoacán](https://en.wikipedia.org/wiki/Municipalities_of_Michoac%C3%A1n)
