@@ -23,3 +23,7 @@ you can use the keyboard shortcut Option + e + a
 ### Entry into Mexico
 
 - [Mexico Tourist Permit](https://www.mexperience.com/your-mexican-tourist-permit-fmm/)
+
+### Places to Stay in Pátzcuaro
+
+- [Places to Stay]()
