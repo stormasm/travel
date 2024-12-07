@@ -3,6 +3,7 @@
 #### Google Searches google.mx
 
 - [¿Cuáles son los barrios bonitos de Puebla, México?](https://www.google.com.mx/search?q=%C2%BFCu%C3%A1les+son+los+barrios+bonitos+de+Puebla%2C+M%C3%A9xico%3F&sca_esv=22db317853775bed&source=hp&ei=cMVTZ-mfKaSw0PEPi7Ou8Q0&iflsig=AL9hbdgAAAAAZ1PTgGzeTb9U0PO5u8diqDZsCb01bUiz&ved=0ahUKEwjpl8r735SKAxUkGDQIHYuZK94Q4dUDCBE&uact=5&oq=%C2%BFCu%C3%A1les+son+los+barrios+bonitos+de+Puebla%2C+M%C3%A9xico%3F&gs_lp=Egdnd3Mtd2l6IjXCv0N1w6FsZXMgc29uIGxvcyBiYXJyaW9zIGJvbml0b3MgZGUgUHVlYmxhLCBNw6l4aWNvPzIFECEYoAEyBRAhGKABSOQiUABYAHAAeACQAQCYAVKgAVKqAQExuAEDyAEA-AEC-AEBmAIBoAJZmAMAkgcBMaAH8gI&sclient=gws-wiz)
+- [¿Cuáles son los mejores lugares para comprar una casa en Puebla, México?](https://www.google.com.mx/search?q=%C2%BFCu%C3%A1les+son+los+mejores+lugares+para+comprar+una+casa+en+Puebla%2C+M%C3%A9xico%3F&sca_esv=22db317853775bed&source=hp&ei=ScZTZ__ICbD00PEPodigyQ0&iflsig=AL9hbdgAAAAAZ1PUWXujrT5b9oYgYk5HmsP25s4ua-O-&ved=0ahUKEwi_kefi4JSKAxUwOjQIHSEsKNkQ4dUDCBE&uact=5&oq=%C2%BFCu%C3%A1les+son+los+mejores+lugares+para+comprar+una+casa+en+Puebla%2C+M%C3%A9xico%3F&gs_lp=Egdnd3Mtd2l6IkvCv0N1w6FsZXMgc29uIGxvcyBtZWpvcmVzIGx1Z2FyZXMgcGFyYSBjb21wcmFyIHVuYSBjYXNhIGVuIFB1ZWJsYSwgTcOpeGljbz9IAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz)
 
 #### Google Searches English
 
