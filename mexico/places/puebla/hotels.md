@@ -1,0 +1,4 @@
+
+##### Places to Stay in Puebla
+
+- [hotel villas arqueológicas cholula](https://www.google.com/search?gs_ssp=eJzj4tZP1zcsNzMzLSpOMmC0UjWosDBNMUxLMzEySjY0SEszMrYyqDBPMTdPTUtJTbVMsbQwTjT2Us7IL0nNUSjLzMlJLFZILCosTc3PObw5PTMZyE3OyM8pzUkEAK_YHYk&q=hotel+villas+arqueol%C3%B3gicas+cholula&rlz=1C5CHFA_enUS1045US1045&oq=hotel+villas+arqueologicas+cholula&gs_lcrp=EgZjaHJvbWUqEwgBEC4YrwEYxwEYgAQYmAUYmQUyBggAEEUYOTITCAEQLhivARjHARiABBiYBRiZBTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB7SAQkxNjA4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
