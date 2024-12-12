@@ -27,3 +27,8 @@ you can use the keyboard shortcut Option + e + a
 ### Places to Stay in Pátzcuaro
 
 - [Places to Stay]()
+
+### Phone Stuff
+
+- [airalo esim](https://www.airalo.com/)
+- [airalo discount](https://www.youtube.com/watch?v=hMxjNt2oEtE)
