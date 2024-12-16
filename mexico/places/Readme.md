@@ -21,6 +21,7 @@
 | puebla | 19.0 |
 | cuernavaca | 18.55 |
 | taxco | 18.33 |
+| tehuacán | 18.27 |
 | oaxaca | 17.03 |
 | tapachula | 14.90 |
 
@@ -36,5 +37,6 @@
 | taxco | 99.36
 | cuernavaca | 99.14 |
 | puebla | 97.53 |
+| tehuacán | 97.23 |
 | oaxaca | 96.43 |
 | tapachula | 92.26 |
