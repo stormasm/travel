@@ -9,4 +9,4 @@
 
 ### residency visas
 
-- [Qroo Paul: Residency Status for Different Countries](https://www.youtube.com/watch?v=zQh7beYq55Y)
+- [qroo paul: residency status for different countries](https://www.youtube.com/watch?v=zQh7beYq55Y)
